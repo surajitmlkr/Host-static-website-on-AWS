@@ -14,9 +14,9 @@ p
 	color: #111;
 }
 /*body*/
-{
-	min-height: 1000px
-}
+/* {
+	min-height: 1000px;
+} */
 
 
 
@@ -30,7 +30,7 @@ p
 	justify-content: center;
 	align-items: center;
 	/*background: url(bg.jpg);*/
-	background: url(kucafe.jpg);
+	background: url(./images/kucafe.jpg);
     background-size: cover;
 }
 .banner .content
@@ -303,7 +303,7 @@ section
 
 .testimonials
 {
-	background: url(bg2.jpg);
+	background: url(./images/bg2.jpg);
 	background-size: cover;
 }
 .white .titleText,
@@ -367,7 +367,7 @@ section
 }
 .contact
 {
-	background: url(bg3.jpg);
+	background: url(./images/bg3.jpg);
 	background-size: cover;
 }
 .contactForm
@@ -473,7 +473,7 @@ section
 		position: relative;
 		width: 40px;
 		height: 40px;
-		background: url(menu.png);
+		background: url(./images/menu.png);
 		background-size: 30px;
 		background-repeat: no-repeat;
 		background-position: center;
@@ -481,7 +481,7 @@ section
 	}
 	.menuToggle.active
 	{
-		background: url(close.png);
+		background: url(./images/close.png);
 		background-size: 25px;
 		background-repeat: no-repeat;
 		background-position: center;
