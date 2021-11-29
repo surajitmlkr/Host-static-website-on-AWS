@@ -10,7 +10,8 @@
 }
 p
 {
-	font-weight: 300;
+	font-size: 20px;
+	font-weight: 400;
 	color: #111;
 }
 /*body*/
@@ -30,7 +31,7 @@ p
 	justify-content: center;
 	align-items: center;
 	/*background: url(bg.jpg);*/
-	background: url(./images/kucafe.jpg);
+	background: url(./images/banner_1.jpg);
     background-size: cover;
 }
 .banner .content
@@ -426,6 +427,7 @@ section
 }
 .copyrightText p
 {
+	font-size: 1em;
 	color: #333;
 }
 .copyrightText a
