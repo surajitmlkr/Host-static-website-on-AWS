@@ -7,7 +7,7 @@ Minor Project: Host static website on AWS
 
 - Saurav Anand [External] | IBM
 
-Objectives:
+# Objectives:
 - Create a static website for our cafeteria - The Bistro
 - Host the created website using AWS S3
 - Provide information at a glance about the cafeteria 
@@ -15,5 +15,5 @@ Objectives:
 - Providing a way to place order through WhatsApp
 
 
-Preview Link:
+# Preview Link:
 https://kucafe.s3-website-us-east-1.amazonaws.com/
