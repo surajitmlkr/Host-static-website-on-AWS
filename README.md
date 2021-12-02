@@ -15,4 +15,4 @@ Minor Project: Host static website on AWS
 - Providing a way to place order through WhatsApp
 
 # Preview Link:
-htts://kucafe.s3-website-us-east-1.amazonaws.com/
+http://kucafe.s3-website-us-east-1.amazonaws.com/
