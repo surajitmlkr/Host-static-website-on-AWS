@@ -14,6 +14,5 @@ Minor Project: Host static website on AWS
 - Highlighting delicacies available at the café
 - Providing a way to place order through WhatsApp
 
-
 # Preview Link:
 https://kucafe.s3-website-us-east-1.amazonaws.com/
